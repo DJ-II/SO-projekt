@@ -1,10 +1,10 @@
 # Dining Philosophers Problem
-## compilation
+## Compilation
 C++11 or later is required. Example compilation in terminal opened in project's folder: 
 ```bash
 g++ -std=c++11 -pthread filozof.cpp -o filozof
 ```
-## running the program
+## Running the program
 The are two parameters - number of philosophers (default is 5) and duration of the program (default is 60 seconds). This will run the program with default parameters values:
 ```
 ./filozof
