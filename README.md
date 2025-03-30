@@ -1,4 +1,4 @@
-# Dining Philosophers Problem
+# Dining philosophers problem
 ## Compilation
 C++11 or later is required. Example compilation in terminal opened in project's folder: 
 ```bash
